@@ -6,4 +6,4 @@ Practice repo for our weekly git-togethers
 
 Saskia
 
-[add your name here]
+[add your name here (whenever we cover git conflicts ;P)]
